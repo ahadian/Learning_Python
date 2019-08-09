@@ -1,7 +1,7 @@
 import json
 import uuid
 
-arr = {'id':1, 'nama': 'Ahadian Akbar'},{'id':2, 'nama': 'GTA San Andreas'}
+arr = {'id':1, 'nama': 'Rabka'},{'id':2, 'nama': 'Naidaha'}
 
 for index in range(len(arr)):
   print(arr[index])
